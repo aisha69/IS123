@@ -7,10 +7,10 @@ function sumMultiple(a, b, n) {
         }
     }
     
-    alert ('exercise two ans is '  +total)
+    alert ('exercise ans is '  +total)
 }
-function findSum() {
-    // Get user input values
+function calculateExercise3() {
+  
     let first = parseInt(document.getElementById('first').value);
     let second = parseInt(document.getElementById('second').value);
     let limit = parseInt(document.getElementById('limit').value);
